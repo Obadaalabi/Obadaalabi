@@ -1,20 +1,20 @@
-<h1 align = "center"> مرحبًا 👋 أنا عبادة حلبي </ h1>
-<h3 align = "center"> طالبة في كلية المعلوماتية تخصص هندسة البرمجيات في السنة الخامسة أدرس في جامعة إدلب ، مطور تطبيقات الإنترنت باستخدام Asp.net core ، مطور تطبيقات الجوال ، flutter ، </h3>
+<h1 align="center">Hi 👋, I'm Obada Halabi</h1>
+<h3 align="center">A student at the Faculty of Informatics, majoring in software engineering in the fifth year, I study at Idlib University, Internet applications developer using Asp.net core, mobile application developer, flutter,</h3>
 
-- 🔭 أنا أعمل حاليًا كمطور تطبيقات ويب مستقل ** Project **
+- 🔭 I am currently working as a freelance web application developer **Project**
 
-- 🌱 أتعلم حاليًا وأحاول زيادة خبرتي في مجال تطبيقات الهاتف المحمول ** الخرائط **
+- 🌱 I am currently learning and trying to increase my experience in the field of mobile applications **Maps**
 
-- 👯 أتطلع إلى التعاون مع الآخرين لبناء مشاريع فريدة وضخمة ** التعاون **
+- 👯 I am looking forward to collaborating with others to build unique and huge projects **collaborating**
 
-- 🤝 أنا أبحث عن مساعدة في تعلم أمن المعلومات وتحليل البيانات ** تعلم **
+- 🤝 I am looking for help with learning information security and data analysis **Learn**
 
-- 📫 كيف تصلني **obadaalabi95@gmail.com**
+- 📫 How to reach me **obadaalabi95@gmail.com**
 
-<h3 align = "left"> تواصل معي: </ h3>
-<p محاذاة = "يسار">
-<a href="https://twitter.com/alabiobada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alabiobada" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/obada-alabi-6b565b250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/obada-alabi-6b565b250" height="30" width="40" /></a>
+<h3 align="left">Connect with me:</h3>
+
+
+
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100005926547638" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100005926547638" height="30" width="40" /></a>
 </p>
 
